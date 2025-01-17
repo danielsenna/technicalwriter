@@ -23,7 +23,7 @@ CO2 Offset
 
 # Business-grade security and privacy prioritized
 
-##Five OS upgrades and six years of security updates
+## Five OS upgrades and six years of security updates
 Keep your devices secure and up-to-date through 2029. This extended support increases your phone’s longevity, ensuring a smooth experience and peace of mind.
 
 ## ThinkShield built-in
